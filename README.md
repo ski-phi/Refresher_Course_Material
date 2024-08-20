@@ -1,0 +1,7 @@
+Data Types
+
+INT: 
+TINYINT;
+SMALLINT
+BIGINT:
+FLOAT
